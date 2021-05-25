@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/977804a3688cded6ba673.jpg">
+  <img src="https://telegra.ph/file/fc765298cc0faf2288523.jpg">
 </p>
 
-# MissShasa_Gbot
-Me On Telegram [✨Miss Shasa✨](http://t.me/MissShasa_bot)
+# Nura_Bot
+Me On Telegram [(っ˘з(˘⌣˘ )](https://t.me/telegram)
 
 ## How To Host
 The easiest way to deploy this Bot
